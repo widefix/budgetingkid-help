@@ -266,7 +266,7 @@ function compile (data) {
     json: [],
     searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a></li>',
     templateMiddleware: function () {},
-    noResultsText: 'No results found',
+    noResultsText: '<li>No results found</li>',
     limit: 10,
     fuzzy: false,
     exclude: []

@@ -1,1 +1,7 @@
-{}
+{
+  "scripts": {
+    "dokku": {
+      "predeploy": "cd /app/www && bundle install && bundle exec rake assets:precompile"
+    }
+  }
+}

@@ -7,8 +7,7 @@
 
 # Site settings
 title: "BudgetingKid"
-description: "Simple and flexible Jekyll theme for help center."
-baseurl: ""
+description: "BudgetingKid Help Center. Our articles and guides will help you use our service more efficiently."
 url: "https://help.budgetingkid.com/"
 color_theme:  "hsl(270, 50%, 40%)"
 color_text:  "hsl(270, 50%, 40%)"
